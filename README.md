@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <h1 align="center">IF U WANT THIS PROJECT, U CAN CLONE THIS PROJECT CUSE FREE</h1>
+    <h1 align="center">IF U WANT THIS PROJECT, U CAN CLONE THIS PROJECT CAUSE FREE</h1>
     <br>
     <h3 align="center">HAPPY CODING</h3>
     <br>
