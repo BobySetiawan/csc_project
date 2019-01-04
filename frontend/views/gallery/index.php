@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel app\models\GallerySearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Galleries';
+$this->title = 'Gallery';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 
@@ -44,8 +44,6 @@ $this->params['breadcrumbs'][] = $this->title;
     <li>
         <i class="fa fa-clock-o bg-gray"></i>
     </li>
-    <!-- END timeline item -->
 
-    ...
 
 </ul>
